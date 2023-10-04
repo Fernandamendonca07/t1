@@ -1,0 +1,11 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(24, 19, 13);
+}
+
+img{
+    border-width: 5px solid;
+    border: 3px solid rgb(46, 38, 22);
+    width: 150px;
+    height: 150px;
+}
